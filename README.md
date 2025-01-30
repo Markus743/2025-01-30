@@ -1,2 +1,2 @@
 # Wiki
-Click on the wiki tab above
+[Wiki](https://github.com/Markus743/wiki/wiki)
